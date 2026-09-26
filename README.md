@@ -460,6 +460,9 @@ The purpose is to help businesses prioritize customers for further investigation
 
 The machine learning and analytical results are presented through an interactive Power BI dashboard.
 
+📊Screenshots / Demos
+Show what the dashboard looks like. Example: https://github.com/SowrabhBidarkar/AI-Customer-Churn-Intelligence-System/blob/main/AI%20Customer%20Churn%20Dashboard.png
+
 # 💡 Business Insights
 
 The project is designed to help identify patterns such as:
